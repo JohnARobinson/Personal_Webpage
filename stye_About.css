@@ -22,6 +22,7 @@ body{
 }
 .HomeDescSub{
     margin: 10px;
+    
 }
 
 .footer {
@@ -30,4 +31,18 @@ body{
     bottom: 0;
     width: 100%;
     text-align: center;
+  }
+
+  .left{
+    float: left;
+    padding: 10px;
+
+  }
+  .middle{
+    float: left;
+    padding: 10px;
+  }
+  .right{
+    float: left;
+    padding: 10px;
   }
